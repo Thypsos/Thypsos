@@ -98,12 +98,6 @@ Outside the day job, I'm focused on cybersecurity (currently studying for CCNA, 
 
 KYC / Compliance (DVS, watchlist screening) · AUSTRAC reporting · Payment integrations (Stripe, PayPal, bKash) · Self-hosting & Homelab · Game server hosting
 
-### GitHub stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thypsos&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thypsos&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
 ---
 
 ### Contact
