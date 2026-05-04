@@ -119,9 +119,9 @@ Outside the day job, I'm focused on cybersecurity (currently studying for CCNA, 
 
 ## 🧾 The Receipts
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thypsos&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4FC3F7&icon_color=29B6F6&text_color=81D4FA)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thypsos&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4FC3F7&icon_color=29B6F6&text_color=81D4FA&cache_seconds=86400)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thypsos&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4FC3F7&text_color=81D4FA)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thypsos&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4FC3F7&text_color=81D4FA&cache_seconds=86400)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Thypsos&theme=tokyonight&hide_border=true&background=0D1117&stroke=1A2942&ring=4FC3F7&fire=29B6F6&currStreakLabel=4FC3F7)
 
