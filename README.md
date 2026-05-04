@@ -1,6 +1,6 @@
 ![Tousif Shahriar Banner](./banner.png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=1500&color=05D9E8&center=true&vCenter=true&width=900&height=50&lines=Hello,+I+am+Glosper+;I+am+a+Cybersecurity+%26+Full-Stack+Engineer;I+like+making+and+taking+things+apart!;Connect+with+me+at+glosper.dev%40gmail.com)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=1500&color=05D9E8&center=true&vCenter=true&width=900&height=50&lines=Hello,+I+am+Glosper,+aka+Tousif;I+am+a+Cybersecurity+%26+Full-Stack+Engineer;I+like+making+and+taking+things+apart!;Connect+with+me+at+glosper.dev%40gmail.com)](https://git.io/typing-svg)
 
 ---
 
