@@ -1,6 +1,6 @@
 ![Tousif Shahriar Banner](./banner.png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=1500&color=4FC3F7&center=true&vCenter=true&width=900&height=50&lines=Cybersecurity+%26+Full-Stack+Engineer;Fintech+compliance+by+day%2C+self-hosting+by+night;Currently+studying+for+CCNA+%26+training+on+TryHackMe)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=1500&color=4FC3F7&center=true&vCenter=true&width=900&height=50&lines=Hello%2C+I+am+Tousif.+AKA+Glosper;Cybersecurity+%26+Full-Stack+Engineer;I+like+making+things+and+taking+things+apart!;connect+with+me+at+glosper.dev%40gmail.com)](https://git.io/typing-svg)
 
 ---
 
@@ -8,7 +8,7 @@
 
 I build and operate full-stack web and mobile applications end-to-end — from the frontend down to the Raspberry Pi running production. I work as a developer at an Australian fintech, where I handle KYC compliance and AUSTRAC reporting alongside building a modern remittance platform from scratch.
 
-Outside the day job, I'm focused on cybersecurity (currently studying for CCNA, training on TryHackMe), self-hosting my own infrastructure stack, and the kind of hands-on tinkering — custom firmware, modding, hardware — that started long before I had a CS degree. I lean heavily on AI-assisted workflows but make a point of understanding every line that ships.
+Outside the day job, I'm focused on cybersecurity (currently studying for CCNA, training on TryHackMe), self-hosting my own infrastructure stack, and the kind of hands-on tinkering — custom firmware, reverse engineering, hardware — that started long before I had a CS degree. I lean heavily on AI-assisted workflows but make a point of understanding every line that ships.
 
 ### Tech I work with
 
@@ -52,9 +52,11 @@ Outside the day job, I'm focused on cybersecurity (currently studying for CCNA, 
 [![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-ab8b8e?logo=raspberrypi&logoColor=ffffff)](https://www.raspberrypi.com/)
 [![Caddy](https://img.shields.io/badge/Caddy-b4d1d3?logo=caddy&logoColor=0b3a3a)](https://caddyserver.com/)
 [![Nginx](https://img.shields.io/badge/Nginx-8690a2?logo=nginx&logoColor=ffffff)](https://www.nginx.com/)
+[![Apache](https://img.shields.io/badge/Apache-d2c296?logo=apache&logoColor=2b2b2b)](https://httpd.apache.org/)
+[![cPanel](https://img.shields.io/badge/cPanel-ab8b8e?logo=cpanel&logoColor=ffffff)](https://cpanel.net/)
 [![Git](https://img.shields.io/badge/Git-e0ded4?logo=git&logoColor=F05032)](https://git-scm.com/)
-[![WireGuard](https://img.shields.io/badge/WireGuard-ab8b8e?logo=wireguard&logoColor=ffffff)](https://www.wireguard.com/)
-[![Pi-hole](https://img.shields.io/badge/Pi--hole-b4d1d3?logo=pihole&logoColor=0b3a3a)](https://pi-hole.net/)
+[![WireGuard](https://img.shields.io/badge/WireGuard-b4d1d3?logo=wireguard&logoColor=0b3a3a)](https://www.wireguard.com/)
+[![OpenVPN](https://img.shields.io/badge/OpenVPN-8690a2?logo=openvpn&logoColor=ffffff)](https://openvpn.net/)
 
 **Security & Networking**
 
@@ -71,6 +73,10 @@ Outside the day job, I'm focused on cybersecurity (currently studying for CCNA, 
 [![WebAuthn](https://img.shields.io/badge/WebAuthn_Passkeys-d2c296?logo=webauthn&logoColor=2b2b2b)](https://webauthn.io/)
 [![JWT](https://img.shields.io/badge/JWT-ab8b8e?logo=jsonwebtokens&logoColor=ffffff)](https://jwt.io/)
 [![AES-256](https://img.shields.io/badge/AES--256-b4d1d3?logo=keepassxc&logoColor=0b3a3a)](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard)
+
+**CMS**
+
+[![WordPress](https://img.shields.io/badge/WordPress-8690a2?logo=wordpress&logoColor=ffffff)](https://wordpress.org/)
 
 ### Featured projects
 
@@ -102,5 +108,5 @@ KYC / Compliance (DVS, watchlist screening) · AUSTRAC reporting · Payment inte
 
 ### Contact
 
-[![Email](https://img.shields.io/badge/Email-Say%20Hi-b4d1d3?style=for-the-badge&labelColor=e0ded4&logo=gmail&logoColor=EA4335)](mailto:Rasay609@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Say%20Hi-b4d1d3?style=for-the-badge&labelColor=e0ded4&logo=gmail&logoColor=EA4335)](mailto:glosper.dev@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Repos-d2c296?style=for-the-badge&labelColor=e0ded4&logo=github&logoColor=000000)](https://github.com/Thypsos?tab=repositories)
