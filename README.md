@@ -6,19 +6,13 @@
 
 ## 🪪 About me
 
-> *Cybersecurity by night.*  
-> *DevOps and fintech compliance by day.*  
-> *Self-hosting always.*
-
 I build and operate full-stack web and mobile applications end-to-end, from the frontend down to the Raspberry Pi running production. I work as a DevOps Engineer and Compliance Officer at an Australian fintech, where I handle KYC operations and AUSTRAC reporting alongside building a modern remittance platform.
 
 Outside the day job, I'm focused on cybersecurity (currently studying for CCNA, training on TryHackMe), self-hosting my own infrastructure stack, and the kind of hands-on tinkering, custom firmware, reverse engineering, and hardware that started long before I had a CS degree.
 
 ---
 
-## ⚙️ Tech I work with
-
-> *Tools of the trade.*
+## 🧰 Tools of the Trade
 
 **Languages**
 
@@ -88,9 +82,7 @@ Outside the day job, I'm focused on cybersecurity (currently studying for CCNA, 
 
 ---
 
-## 🛰️ Featured projects
-
-> *Gym badges.*
+## 🎖️ Gym Badges
 
 * **Kovira** *(offline-first encrypted personal ledger)*
   * Flutter, Dart, SQLite, Google Drive API, AES-256-CBC + PBKDF2
@@ -125,9 +117,7 @@ Outside the day job, I'm focused on cybersecurity (currently studying for CCNA, 
 
 ---
 
-## 🌱 GitHub stats
-
-> *The receipts.*
+## 🧾 The Receipts
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thypsos&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4FC3F7&icon_color=29B6F6&text_color=81D4FA)
 
