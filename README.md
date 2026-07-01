@@ -89,7 +89,7 @@ Outside the day job, I'm focused on cybersecurity (currently studying for CCNA, 
   * Cross-platform Android app for tracking daily transactions
   * Local-first storage, user-owned encrypted backups to Google Drive
   * Material 3 theming
-  * → [`/Kovira`](https://github.com/Thypsos/Kovira)
+  * → [`/Kovira`](https://github.com/Glospers/Kovira)
 
 * **Remittance Platform** *(in private development)*
   * Next.js 16, React, TypeScript, Tailwind
@@ -103,7 +103,7 @@ Outside the day job, I'm focused on cybersecurity (currently studying for CCNA, 
   * HTML5, CSS3, vanilla JS
   * Hosted on GitHub Pages
   * Accessible nav, responsive grid, basic SEO
-  * → [`/mdcs`](https://github.com/Thypsos/mdcs)
+  * → [`/mdcs`](https://github.com/Glospers/mdcs)
 
 ---
 
@@ -119,15 +119,15 @@ Outside the day job, I'm focused on cybersecurity (currently studying for CCNA, 
 
 ## 🧾 The Receipts
 
-![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Thypsos&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4FC3F7&icon_color=29B6F6&text_color=81D4FA)
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Glospers&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4FC3F7&icon_color=29B6F6&text_color=81D4FA)
 
-![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Thypsos&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4FC3F7&text_color=81D4FA)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Glospers&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4FC3F7&text_color=81D4FA)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Thypsos&theme=tokyonight&hide_border=true&background=0D1117&stroke=1A2942&ring=4FC3F7&fire=29B6F6&currStreakLabel=4FC3F7)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Glospers&theme=tokyonight&hide_border=true&background=0D1117&stroke=1A2942&ring=4FC3F7&fire=29B6F6&currStreakLabel=4FC3F7)
 
 ---
 
 ## 📬 Contact
 
 [![Email](https://img.shields.io/badge/Email-Say%20Hi-FF2A6D?style=for-the-badge&labelColor=01012B&logo=gmail&logoColor=05D9E8)](mailto:glosper.dev@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Repos-B967FF?style=for-the-badge&labelColor=01012B&logo=github&logoColor=05D9E8)](https://github.com/Thypsos?tab=repositories)
+[![GitHub](https://img.shields.io/badge/GitHub-Repos-B967FF?style=for-the-badge&labelColor=01012B&logo=github&logoColor=05D9E8)](https://github.com/Glospers?tab=repositories)
